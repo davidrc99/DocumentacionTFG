@@ -1,0 +1,66 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Introducción}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivación del trabajo}{11}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Computación perimetral y redes 5G}{11}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Realidad Aumentada}{11}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Descripción del problema}{12}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Escenario simulado}{12}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Objetivos del trabajo}{12}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Estructura del documento}{12}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Estado del arte}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Búsqueda y análisis de información}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Conceptos}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Computación Perimetral de Acceso Múltiple}{14}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Definición}{14}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Futuro de la computación perimetral}{15}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {2.2.2}Algoritmo de detección de personas}{15}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Soluciones ya existentes}{15}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Planificación y estimación de costes}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Metodología utilizada}{16}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Cronología del trabajo}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Diagrama de Gantt}{16}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Entorno de trabajo}{16}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Análisis de requisitos}{16}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Requisitos funcionales}{16}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Requisitos no funcionales}{16}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Presupuesto}{16}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Diseño del sistema}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Descripción de solución}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Restricciones}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Diagramas UML}{17}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Diagrama de casos de uso}{17}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Diagrama de interacción}{17}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Diagrama de flujo}{17}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}Cliente}{17}{subsubsection.4.3.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.3.2}Servidor}{17}{subsubsection.4.3.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3.3}Sistema completo}{17}{subsubsection.4.3.3.3}%
+\contentsline {section}{\numberline {4.4}Diseño de la base de datos del servidor}{17}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Comunicación entre cliente y servidor}{17}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Desarrollo}{18}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción a la implementación}{19}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Herramientas de desarrollo}{19}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Servidor}{19}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Cliente}{19}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Implementación del servidor}{19}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Procesamiento de solicitudes}{19}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Detección de jugadores}{19}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}Diferenciar equipos a través de un modelo}{19}{subsubsection.5.3.2.1}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}Diferenciar equipos mediante tratamiento de imágenes}{19}{subsubsection.5.3.2.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.3}Implementación del minimapa}{19}{subsubsection.5.3.2.3}%
+\contentsline {subsection}{\numberline {5.3.3}Guardado de resultados y envío de respuesta}{19}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Segunda versión}{19}{subsection.5.3.4}%
+\contentsline {subsubsection}{\numberline {5.3.4.1}Cambios en la base de datos}{19}{subsubsection.5.3.4.1}%
+\contentsline {subsection}{\numberline {5.3.5}Cambios en la respuesta}{19}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Implementación del cliente}{19}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Conseguir foto fuente mediante cámara o galería}{19}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Envío de petición}{19}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Mostrar respuesta y botón de descarga}{19}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Segunda versión}{19}{subsection.5.4.4}%
+\contentsline {subsubsection}{\numberline {5.4.4.1}Cambios en la recepción de la respuesta}{19}{subsubsection.5.4.4.1}%
+\contentsline {chapter}{\numberline {6}Evaluación}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Análisis de las pruebas realizadas}{20}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Comparativa de soluciones}{20}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Comparación entre versiones del cliente}{20}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Comparación entre versiones del servidor}{20}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Comparación entre versiones del sistema completo}{20}{subsection.6.2.3}%
+\contentsline {chapter}{\numberline {7}Conclusiones y trabajo futuro}{21}{chapter.7}%

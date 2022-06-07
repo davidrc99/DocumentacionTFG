@@ -1,0 +1,55 @@
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Motivaci\363n del trabajo}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Computaci\363n perimetral y redes 5G}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Realidad Aumentada}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Descripci\363n del problema}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Escenario simulado}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Objetivos del trabajo}{section.1.2}% 7
+\BOOKMARK [1][-]{section.1.3}{Estructura del documento}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Estado del arte}{}% 9
+\BOOKMARK [1][-]{section.2.1}{B\372squeda y an\341lisis de informaci\363n}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Conceptos}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.1}{Computaci\363n Perimetral de Acceso M\372ltiple}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.2}{Algoritmo de detecci\363n de personas}{section.2.2}% 13
+\BOOKMARK [1][-]{section.2.3}{Soluciones ya existentes}{chapter.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Planificaci\363n y estimaci\363n de costes}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Metodolog\355a utilizada}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.2}{Cronolog\355a del trabajo}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.2.1}{Diagrama de Gantt}{section.3.2}% 18
+\BOOKMARK [1][-]{section.3.3}{Entorno de trabajo}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.4}{An\341lisis de requisitos}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.4.1}{Requisitos funcionales}{section.3.4}% 21
+\BOOKMARK [2][-]{subsection.3.4.2}{Requisitos no funcionales}{section.3.4}% 22
+\BOOKMARK [1][-]{section.3.5}{Presupuesto}{chapter.3}% 23
+\BOOKMARK [0][-]{chapter.4}{Dise\361o del sistema}{}% 24
+\BOOKMARK [1][-]{section.4.1}{Descripci\363n de soluci\363n}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.2}{Restricciones}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.3}{Diagramas UML}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.3.1}{Diagrama de casos de uso}{section.4.3}% 28
+\BOOKMARK [2][-]{subsection.4.3.2}{Diagrama de interacci\363n}{section.4.3}% 29
+\BOOKMARK [2][-]{subsection.4.3.3}{Diagrama de flujo}{section.4.3}% 30
+\BOOKMARK [1][-]{section.4.4}{Dise\361o de la base de datos del servidor}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.5}{Comunicaci\363n entre cliente y servidor}{chapter.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Desarrollo}{}% 33
+\BOOKMARK [1][-]{section.5.1}{Introducci\363n a la implementaci\363n}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.2}{Herramientas de desarrollo}{chapter.5}% 35
+\BOOKMARK [2][-]{subsection.5.2.1}{Servidor}{section.5.2}% 36
+\BOOKMARK [2][-]{subsection.5.2.2}{Cliente}{section.5.2}% 37
+\BOOKMARK [1][-]{section.5.3}{Implementaci\363n del servidor}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.3.1}{Procesamiento de solicitudes}{section.5.3}% 39
+\BOOKMARK [2][-]{subsection.5.3.2}{Detecci\363n de jugadores}{section.5.3}% 40
+\BOOKMARK [2][-]{subsection.5.3.3}{Guardado de resultados y env\355o de respuesta}{section.5.3}% 41
+\BOOKMARK [2][-]{subsection.5.3.4}{Segunda versi\363n}{section.5.3}% 42
+\BOOKMARK [2][-]{subsection.5.3.5}{Cambios en la respuesta}{section.5.3}% 43
+\BOOKMARK [1][-]{section.5.4}{Implementaci\363n del cliente}{chapter.5}% 44
+\BOOKMARK [2][-]{subsection.5.4.1}{Conseguir foto fuente mediante c\341mara o galer\355a}{section.5.4}% 45
+\BOOKMARK [2][-]{subsection.5.4.2}{Env\355o de petici\363n}{section.5.4}% 46
+\BOOKMARK [2][-]{subsection.5.4.3}{Mostrar respuesta y bot\363n de descarga}{section.5.4}% 47
+\BOOKMARK [2][-]{subsection.5.4.4}{Segunda versi\363n}{section.5.4}% 48
+\BOOKMARK [0][-]{chapter.6}{Evaluaci\363n}{}% 49
+\BOOKMARK [1][-]{section.6.1}{An\341lisis de las pruebas realizadas}{chapter.6}% 50
+\BOOKMARK [1][-]{section.6.2}{Comparativa de soluciones}{chapter.6}% 51
+\BOOKMARK [2][-]{subsection.6.2.1}{Comparaci\363n entre versiones del cliente}{section.6.2}% 52
+\BOOKMARK [2][-]{subsection.6.2.2}{Comparaci\363n entre versiones del servidor}{section.6.2}% 53
+\BOOKMARK [2][-]{subsection.6.2.3}{Comparaci\363n entre versiones del sistema completo}{section.6.2}% 54
+\BOOKMARK [0][-]{chapter.7}{Conclusiones y trabajo futuro}{}% 55
